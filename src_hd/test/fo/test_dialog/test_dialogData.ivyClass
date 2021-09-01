@@ -1,0 +1,4 @@
+test_dialogData #class
+test.fo.test_dialog #namespace
+data test.fo.Data #field
+data PERSISTENT #fieldModifier
